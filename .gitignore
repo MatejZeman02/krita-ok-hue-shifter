@@ -6,7 +6,7 @@ other/
 
 # testing jupyters
 *.ipynb
-
+*.csv
 
 
 # Byte-compiled / optimized / DLL files
