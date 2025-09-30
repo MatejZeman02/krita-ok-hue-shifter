@@ -1,5 +1,6 @@
 """
-Converted from TypeScript to Python
+Converted from TypeScript to Python. Working in normalized range only.
+
 Original source: https://github.com/holbrookdev/ok-color-picker/blob/main/
 
 SOURCE: https://github.com/bottosson/bottosson.github.io/blob/master/misc/colorpicker/colorconversion.js
@@ -25,7 +26,6 @@ SOFTWARE.
 from typing import List
 import re
 
-# import math
 import numpy as np
 
 
