@@ -1,3 +1,14 @@
+# gitignore for python project and pictures.
+
+media/
+other/
+*.png
+
+# testing jupyters
+*.ipynb
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
