@@ -16,6 +16,8 @@ There is a checkbox in menu:
 
 Install as every different Krita plugin to `krita/pykrita/hue_shifter/` folder or use install from disk as `zip`.
 
+**WARNING**: the code needs `numpy` and `scipy` packages installed in system, or staticly linked nearby.
+For manuall installation check: https://github.com/TomasWeisss/krita-pip.
 
 ## Contact
 
