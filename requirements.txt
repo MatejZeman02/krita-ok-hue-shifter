@@ -1,2 +1,4 @@
-# numpy, scipy in system libraries
-
+numpy
+scipy
+# numpy, scipy in system libraries or staticlly linked. For more info see:
+# https://github.com/TomasWeisss/krita-pip
